@@ -1,4 +1,4 @@
-# e-commerce-data-analysis
+# E-commerce-data-analysis
 A SQL Tableau project
 
 Credits of data and partial insights go to Diko Hary Adhanto "Data Analysis for E-Commerce Challenge" https://medium.com/diko-hary-adhanto-portfolio/data-analysis-for-e-commerce-challenge-a8d04f756132
